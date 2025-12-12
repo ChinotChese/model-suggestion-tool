@@ -1,0 +1,9 @@
+[project]
+name = "model-suggestion-tool"
+version = "0.1.0"
+
+dependencies = [
+]
+
+[python]
+version = "3.14"
