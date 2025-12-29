@@ -3,6 +3,9 @@ name = "model-suggestion-tool"
 version = "0.1.0"
 
 dependencies = [
+    "openai>=2.11.0",
+    "python-dotenv>=1.2.1",
+    "tiktoken>=0.12.0",
 ]
 
 [python]
